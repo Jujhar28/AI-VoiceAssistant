@@ -16,7 +16,7 @@ Before you begin, make sure you have the following installed:
 
 #### 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/voice-activated-chatbot.git
+git clone https://github.com/Jujhar28/AI-VoiceAssistant.git
 ```
 
 #### 2. Install the required Python packages:
